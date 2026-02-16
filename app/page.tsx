@@ -25,11 +25,12 @@ export default function HomePage() {
         </div>
 
         <div className="hero-content">
-          <h1>
-            Empowering <span className="text-gradient-orange">Africa's</span>
-            <br />
-            Financial Future
-          </h1>
+          <h1 style={{ fontWeight: 700 }}>
+  Empowering <span className="text-gradient-orange">Africa&apos;s</span>
+  <br />
+  Financial Future
+</h1>
+
           <p style={{ color: 'white' }}>
             We operate an agile ecosystem of inclusive financial, fintech and value-added services, driven by innovation and purpose-built for African markets.
           </p>
@@ -163,7 +164,7 @@ export default function HomePage() {
           <span className="text-gradient-orange" style={{ fontWeight: 600 }}>
             OUR APPROACH
           </span>
-          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', margin: '20px 0' }}>
+          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', margin: '20px 0', fontWeight:'700' }}>
             Agility Meets Purpose
           </h2>
           <p style={{ color: 'var(--text-muted)' }}>
@@ -214,7 +215,7 @@ export default function HomePage() {
           <span className="text-gradient-orange" style={{ fontWeight: 600 }}>
             INFRASTRUCTURE
           </span>
-          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem' }}>Built for Scale</h2>
+          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', fontWeight:'700' }}>Built for Scale</h2>
         </div>
         <div className="tech-grid">
           <div className="tech-item">
@@ -245,7 +246,7 @@ export default function HomePage() {
         <div className="about-split">
           <div>
             <span className="text-gradient-orange">GLOBAL FOOTPRINT</span>
-            <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', margin: '20px 0' }}>
+            <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', margin: '20px 0', fontWeight:'700' }}>
               Connecting Continents
             </h2>
             <p style={{ color: 'var(--text-muted)', marginBottom: '30px' }}>
@@ -343,7 +344,7 @@ export default function HomePage() {
             <span style={{ color: 'var(--secondary)', fontWeight: 600, textTransform: 'uppercase' }}>
               For Developers
             </span>
-            <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '2.5rem', margin: '20px 0' }}>
+            <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '2.5rem', margin: '20px 0', fontWeight:'700' }}>
               Seamless Integration
             </h2>
             <p style={{ color: 'var(--text-muted)', marginBottom: '30px' }}>
@@ -394,12 +395,12 @@ export default function HomePage() {
       {/* Ecosystem Preview */}
       <div className="container section-padding">
         <div style={{ marginBottom: '50px' }}>
-          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem' }}>Our Ecosystem</h2>
+          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', fontWeight:'700'}}>Our Ecosystem</h2>
           <p style={{ color: 'var(--text-muted)' }}>A suite of specialized brands working in harmony.</p>
         </div>
 
         <div className="ecosystem-grid">
-          <Link href="/brands/kolomoni-mfb-nigeria" className="eco-card eco-card-link">
+          <Link href="https://kolomonimfb.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/KM%20ICON.png"
               alt="Kolomoni"
@@ -410,7 +411,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link href="/brands/kolomoni-mfi-gambia" className="eco-card eco-card-link">
+          <Link href="https://www.kolomonigambia.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/KM%20ICON.png"
               alt="Kolomoni"
@@ -423,7 +424,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link href="/brands/ercas" className="eco-card eco-card-link">
+          <Link href="https://ercas.ng/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/ercas%20icon.png"
               alt="ERCAS"
@@ -467,7 +468,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link href="/brands/afrikmoney" className="eco-card eco-card-link">
+          <Link href="https://tikibykolomoni.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/tblue.png"
               alt="Afrikmoney"
@@ -478,7 +479,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link href="/brands/sagebrush-wealth" className="eco-card eco-card-link">
+          <Link href="https://sagebrushwealth.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/83530095b3d8f4730b83d9956ae6c4fb5cc0d7e6/sagebrush.png"
               alt="Sagebrush"

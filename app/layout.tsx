@@ -26,8 +26,8 @@ export default function RootLayout({
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-  <link rel="icon" href="https://raw.githubusercontent.com/DannyYo696/svillage/b01dd224e847135fc6b636c8cd74e60c397d6a59/cs-logo.webp" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/https://raw.githubusercontent.com/DannyYo696/svillage/b01dd224e847135fc6b636c8cd74e60c397d6a59/cs-logo.webp" />
+  <link rel="icon" href="https://raw.githubusercontent.com/DannyYo696/csassets/291ade95fb88a57c3654b1afc041833e5c3a1a15/cst%20icon.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/DannyYo696/csassets/291ade95fb88a57c3654b1afc041833e5c3a1a15/cst%20icon.png" />
 
 </head>
 

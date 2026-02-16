@@ -8,7 +8,7 @@ export default function AboutPage() {
         <span className="text-gradient-orange" style={{ fontWeight: 600, letterSpacing: '2px' }}>
           WHO WE ARE
         </span>
-        <h1 className="text-gradient">
+        <h1 style={{ fontWeight: 700 }} className="text-gradient">
           More Than Finance.
           <br />
           We Are <span style={{ color: 'white' }}>Infrastructure.</span>
@@ -58,7 +58,7 @@ export default function AboutPage() {
       <div className="vm-section">
         <div className="container vm-container">
           <div className="vm-text-content">
-            <h2>Our Vision</h2>
+            <h2 style={{ fontWeight: 700 }}>Our Vision</h2>
             <h3>
               "To be Africa's leading financial partner, enabling <span className="text-gradient-orange">inclusion, enterprise,</span> and prosperity through innovation and technology."
             </h3>
@@ -86,7 +86,7 @@ export default function AboutPage() {
             />
           </div>
           <div className="vm-text-content" style={{ order: 1 }}>
-            <h2 style={{ color: 'var(--secondary)' }}>Our Mission</h2>
+            <h2 style={{ color: 'var(--secondary)', fontWeight:'700' }}>Our Mission</h2>
             <h3 style={{ color: 'white' }}>
               "To provide sustainable financial infrastructures that continuously empower individuals and businesses to
               grow, thrive, and uplift communities."
@@ -219,7 +219,7 @@ export default function AboutPage() {
           <span className="text-gradient-orange" style={{ letterSpacing: '2px', fontWeight: 600 }}>
             OUR FOUNDATION
           </span>
-          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', color: 'white' }}>Built on Three Pillars</h2>
+          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', color: 'white', fontWeight:'700' }}>Built on Three Pillars</h2>
         </div>
         <div className="pillar-grid">
           <div className="pillar-item">
@@ -268,7 +268,7 @@ export default function AboutPage() {
       {/* Global Expansion */}
       <div className="container expansion-section">
         <span className="text-gradient-orange">GLOBAL FOOTPRINT</span>
-        <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', color: 'white', marginTop: '10px' }}>Where We Operate</h2>
+        <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', color: 'white', marginTop: '10px', fontWeight:'700' }}>Where We Operate</h2>
         <p style={{ color: 'var(--text-muted)', maxWidth: '600px', margin: '20px auto' }}>
           Our roots are deep in Africa, but our reach is global. We operate across multiple markets to serve the diaspora and local communities alike.
         </p>
@@ -355,7 +355,7 @@ export default function AboutPage() {
       <div className="container tech-deep-dive">
         <div style={{ maxWidth: '800px' }}>
           <span style={{ color: 'var(--secondary)', fontWeight: 600 }}>ENGINEERING EXCELLENCE</span>
-          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', color: 'white', marginTop: '10px' }}>
+          <h2 style={{ fontFamily: 'var(--font-head)', fontSize: '3rem', color: 'white', marginTop: '10px', fontWeight:'700' }}>
             Proprietary Infrastructure
           </h2>
           <p style={{ color: 'var(--text-muted)', marginTop: '20px' }}>
