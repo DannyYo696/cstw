@@ -45,7 +45,7 @@ export default function EcosystemPage() {
       link: '/brands/regius-asset-management',
     },
     {
-      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/tblue.png',
+      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/51892b531cab83c46f918c98313766ab821a298e/tikibycs2.png',
       title: 'AfrikMoney',
       desc: 'Seamless cross-border remittances from UK to Africa.',
       btn: 'Learn More',
