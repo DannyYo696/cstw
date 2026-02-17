@@ -47,7 +47,7 @@ export default function LeadershipPage() {
       bio: 'Engineering leader with 20+ years leading distributed agile teams.',
       experience: '20+ years',
       expertise: ['Engineering Leadership', 'Agile'],
-      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/2a5a9c5b39ea8aad5416bdeda7f3b332f4942695/Nath%20Ude.jpg',
+      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/0e13f6114e8d9ffbe30ee061267765bec1421914/Nath.jpg',
     },
     {
       id: 'abubakar-soyemi',
@@ -67,7 +67,7 @@ export default function LeadershipPage() {
       bio: 'Engineering leader with 20+ years leading distributed agile teams.',
       experience: '20+ years',
       expertise: ['Engineering Leadership', 'Agile'],
-      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/1e4a8634eef910bb89614b7f94d3cd22ede933da/odeniyi.webp',
+      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/0e13f6114e8d9ffbe30ee061267765bec1421914/moyosore.jpg',
     },
     {
       id: 'blaise-oluwole',
@@ -127,7 +127,7 @@ export default function LeadershipPage() {
       bio: 'Technology executive experienced in fintech and enterprise systems.',
       experience: '15+ years',
       expertise: ['Fintech', 'Cloud Architecture'],
-      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/eee6088599fcc87ef8900a9f891060dcd09bdb45/emilola.webp',
+      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/0e13f6114e8d9ffbe30ee061267765bec1421914/emilola.jpg',
     },
     {
       id: 'samuel-olaifa',
@@ -148,7 +148,7 @@ export default function LeadershipPage() {
       bio: 'Operations and business leader with over 20 years of experience in banking.',
       experience: '20+ years',
       expertise: ['Operations', 'Risk Control'],
-      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/91114b017fe9fc07cc7a34654549f4d04d2e488f/fasasi.webp',
+      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/0e13f6114e8d9ffbe30ee061267765bec1421914/Fasasi.jpg',
     },
     {
       id: 'yusuf-adeojo',
@@ -188,7 +188,7 @@ export default function LeadershipPage() {
       bio: 'Experienced legal advisor with 15+ years of corporate law specialization.',
       experience: '15+ years',
       expertise: ['Corporate Law', 'Compliance'],
-      img: 'https://picsum.photos/seed/tolulope/600/800',
+      img: 'https://raw.githubusercontent.com/DannyYo696/csassets/0e13f6114e8d9ffbe30ee061267765bec1421914/yvonne.jpg',
     },
     {
       id: 'simisola-ojumu',
