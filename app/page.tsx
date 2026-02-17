@@ -70,7 +70,7 @@ export default function HomePage() {
           </div>
           <div className="marquee-item">
             <div className="marquee-content">
-              <img src="https://raw.githubusercontent.com/DannyYo696/csassets/8b5789806dd63541d97f3f92491e445032fc2e09/tblue.png" alt="AfrikMoney" />
+              <img src="https://raw.githubusercontent.com/DannyYo696/csassets/51892b531cab83c46f918c98313766ab821a298e/tikibycs2.png" alt="AfrikMoney" />
             </div>
           </div>
           <div className="marquee-item">
@@ -106,7 +106,7 @@ export default function HomePage() {
           </div>
           <div className="marquee-item">
             <div className="marquee-content">
-              <img src="https://raw.githubusercontent.com/DannyYo696/csassets/8b5789806dd63541d97f3f92491e445032fc2e09/tblue.png" alt="AfrikMoney" />
+              <img src="https://raw.githubusercontent.com/DannyYo696/csassets/51892b531cab83c46f918c98313766ab821a298e/tikibycs2.png" alt="AfrikMoney" />
             </div>
           </div>
           <div className="marquee-item">
@@ -400,7 +400,7 @@ export default function HomePage() {
         </div>
 
         <div className="ecosystem-grid">
-          <Link target='blank' href="https://kolomonimfb.com/" className="eco-card eco-card-link">
+          <Link href="https://kolomonimfb.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/KM%20ICON.png"
               alt="Kolomoni"
@@ -411,7 +411,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="https://www.kolomonigambia.com/" className="eco-card eco-card-link">
+          <Link href="https://www.kolomonigambia.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/KM%20ICON.png"
               alt="Kolomoni"
@@ -424,7 +424,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="https://ercas.ng/" className="eco-card eco-card-link">
+          <Link href="https://ercas.ng/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/ercas%20icon.png"
               alt="ERCAS"
@@ -435,7 +435,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="/brands/credit-assist" className="eco-card eco-card-link">
+          <Link href="/brands/credit-assist" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/ca15e2ba3318b9e7c16ee4e9a04a9490753ad14a/CREDIT%20ASSIST%20-%203.png"
               alt="Credit Assist"
@@ -446,7 +446,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="https://regiuscapital.ng/" className="eco-card eco-card-link">
+          <Link href="/brands/regius-capital" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/REGUIS%20WHITE.png"
               alt="Regius Capital"
@@ -457,7 +457,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="https://regiusassetmanagement.com/" className="eco-card eco-card-link">
+          <Link href="/brands/regius-asset-management" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/ca15e2ba3318b9e7c16ee4e9a04a9490753ad14a/Rc_AM.png"
               alt="Regius Asset"
@@ -468,9 +468,9 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="https://tikibykolomoni.com/" className="eco-card eco-card-link">
+          <Link href="https://tikibykolomoni.com/" className="eco-card eco-card-link">
             <img
-              src="https://raw.githubusercontent.com/DannyYo696/csassets/2968a8b12f5bbb620d764e9db309906c039206d8/tblue.png"
+              src="https://raw.githubusercontent.com/DannyYo696/csassets/51892b531cab83c46f918c98313766ab821a298e/tikibycs2.png"
               alt="Afrikmoney"
               className="eco-logo"
             />
@@ -479,7 +479,7 @@ export default function HomePage() {
             <span className="card-arrow">→</span>
           </Link>
 
-          <Link target='blank' href="https://sagebrushwealth.com/" className="eco-card eco-card-link">
+          <Link href="https://sagebrushwealth.com/" className="eco-card eco-card-link">
             <img
               src="https://raw.githubusercontent.com/DannyYo696/csassets/83530095b3d8f4730b83d9956ae6c4fb5cc0d7e6/sagebrush.png"
               alt="Sagebrush"
