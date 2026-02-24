@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="footer-col">
             <Link href="/" style={{ display: 'inline-block', marginBottom: '20px' }}>
               <img 
-                src="https://raw.githubusercontent.com/DannyYo696/svillage/b01dd224e847135fc6b636c8cd74e60c397d6a59/cs-logo.webp" 
+                src="https://raw.githubusercontent.com/DannyYo696/csassets/4a17328d995cf434ec5e50adbf7e16fa9132e3d0/CS%20TECHNOLOGY_white.png       " 
                 alt="CapitalSage Logo" 
                 style={{ height: '80px' }}
               />
