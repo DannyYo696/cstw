@@ -35,14 +35,14 @@ export default function EcosystemPage() {
       title: 'Regius Capital',
       desc: 'Debt and equity solutions driving capital market growth.',
       btn: 'Learn More',
-      link: '/brands/regius-capital',
+      link: 'https://regiuscapital.ng/',
     },
     {
       img: 'https://raw.githubusercontent.com/DannyYo696/csassets/ca15e2ba3318b9e7c16ee4e9a04a9490753ad14a/Rc_AM.png',
       title: 'Regius Asset Management',
       desc: 'Wealth management and portfolio creation for sustainable returns.',
       btn: 'Learn More',
-      link: '/brands/regius-asset-management',
+      link: 'https://regiusassetmanagement.com/',
     },
     {
       img: 'https://raw.githubusercontent.com/DannyYo696/csassets/51892b531cab83c46f918c98313766ab821a298e/tikibycs2.png',
